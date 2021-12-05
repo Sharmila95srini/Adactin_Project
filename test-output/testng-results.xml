@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-29T20:46:03 IST" name="Default suite" finished-at="2021-11-29T20:46:13 IST" duration-ms="9863">
+    <groups>
+      <group name="Resort">
+        <method signature="Runner_testng.Search_hotel()[pri:1, instance:com.testng_project.Runner_testng@2ce86164]" name="Search_hotel" class="com.testng_project.Runner_testng"/>
+        <method signature="Runner_testng.book_hotel()[pri:2, instance:com.testng_project.Runner_testng@2ce86164]" name="book_hotel" class="com.testng_project.Runner_testng"/>
+      </group> <!-- Resort -->
+    </groups>
+    <test started-at="2021-11-29T20:46:03 IST" name="Default test" finished-at="2021-11-29T20:46:13 IST" duration-ms="9863">
+      <class name="com.testng_project.Runner_testng">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:00 IST" name="setup" finished-at="2021-11-29T20:46:03 IST" duration-ms="3032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Credentials()[pri:0, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:03 IST" name="Credentials" finished-at="2021-11-29T20:46:03 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Credentials -->
+        <test-method signature="Search_hotel()[pri:1, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:03 IST" name="Search_hotel" finished-at="2021-11-29T20:46:04 IST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_hotel -->
+        <test-method signature="book_hotel()[pri:2, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:04 IST" name="book_hotel" finished-at="2021-11-29T20:46:05 IST" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_hotel -->
+        <test-method signature="booking_Confirm()[pri:3, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:05 IST" name="booking_Confirm" finished-at="2021-11-29T20:46:12 IST" duration-ms="6034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking_Confirm -->
+        <test-method signature="takepic()[pri:4, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:12 IST" name="takepic" finished-at="2021-11-29T20:46:12 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takepic -->
+        <test-method signature="takepic()[pri:4, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:12 IST" name="takepic" finished-at="2021-11-29T20:46:12 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takepic -->
+        <test-method signature="takepic()[pri:4, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:12 IST" name="takepic" finished-at="2021-11-29T20:46:12 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takepic -->
+        <test-method signature="logout()[pri:5, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:12 IST" name="logout" finished-at="2021-11-29T20:46:13 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng_project.Runner_testng@2ce86164]" started-at="2021-11-29T20:46:13 IST" name="teardown" finished-at="2021-11-29T20:46:13 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng_project.Runner_testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
